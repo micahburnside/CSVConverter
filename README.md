@@ -5,6 +5,9 @@ This Python program allows users to convert CSV files to JSON format. The progra
 ## Prerequisites
 Before using this program, you will need to have Python 3 installed on your computer. You can download the latest version of Python from the official website: https://www.python.org/downloads/
 
+## Included Documents
+1. ParseThisDoument.csv - Conform your CSV files to this format. Future development will allow you to parse more complex .CSV files. 
+
 ## Usage
 1. Clone or download the repository to your computer.
 2. Open the terminal or command prompt and navigate to the directory where the program is saved.
