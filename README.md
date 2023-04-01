@@ -22,5 +22,5 @@ Before using this program, you will need to have Python 3 installed on your comp
 If you have any issues or questions about this program, please feel free to contact the developer at [micahburnside@protonmail.com].
 
 ## License
-This program is licensed under the MIT License. Please see the LICENSE file for more information.
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
