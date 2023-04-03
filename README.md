@@ -13,7 +13,8 @@ Before using this program, you will need to have Python 3 installed on your comp
 2. Open the terminal or command prompt and navigate to the directory where the program is saved.
 3. Run the program by entering the following command: `python3 csv_to_json_converter.py`
 4. Click the "Choose CSV File" button and select the CSV file you wish to convert.
-5. (Optional) Enter a custom name for the output JSON file in the text box provided.
+5. Click on the checkbox next to the data fields you want to keep in your JSON file. 
+5. Enter a custom name for the output JSON file in the text box provided. This may be left blank and the file will be named automatically. 
 6. Click the "Convert to JSON" button to convert the CSV file to JSON format.
 7. Select the directory where you want to save the output file.
 8. A message will appear in the GUI confirming that the conversion was successful and showing the file path of the output JSON file.
